@@ -35,7 +35,11 @@
                     <div class="card-body p-0">
                         <!-- Nested Row within Card Body -->
                         <div class="row">
-                            <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
+                            <div class="col-lg-6 d-none d-lg-flex justify-content-center align-items-center bg-login-image">
+                                <img src="./images/logo.png" class="img-fluid" style="max-width: 70%;">
+                            </div>
+                            
+                            
                             <div class="col-lg-6">
                                 <div class="p-5">
                                     <div class="text-center">
@@ -44,7 +48,7 @@
                                     <form class="user">
                                         <div class="form-group">
                                             <input type="text" class="form-control form-control-user"
-                                                id="usuarioForm" placeholder="Enter user...">
+                                                id="usuarioForm"   placeholder="Enter User...">
                                         </div>
                                         <div class="form-group">
                                             <input type="password" class="form-control form-control-user"
@@ -57,7 +61,7 @@
                                                     Me</label>
                                             </div>
                                         </div>
-                                        <button type="button" class="btnLogin btn btn-primary btn-user btn-block">
+                                        <button  type="button" class="btnLogin btn-primary btn-user btn-block">
                                             Login
                                         </button>
                                         <hr>
@@ -74,6 +78,9 @@
                                     </div>
                                     <div class="text-center">
                                         <a class="small" href="register.html">Create an Account!</a>
+                                    </div>
+                                    <div class="text-center">
+                                        <a class="small" href="/indexhamburguer.html">Volver al menu principal</a>
                                     </div>
                                 </div>
                             </div>
@@ -96,9 +103,9 @@
 
     <!-- Custom scripts for all pages-->
     <script src="js/sb-admin-2.min.js"></script>
-  <!-- aechivo login-->
-<script src="js/login.js"></script>
 
+<!-- archivo login-->
+    <script src="js/login.js"></script>
 </body>
 
 </html>
