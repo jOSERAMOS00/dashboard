@@ -25,7 +25,7 @@ let getUser =() =>{
 
 btnLogout.addEventListener("click",() =>{
     localStorage.removeItem("userLogin");
-    location.href = "../login.html";
+    location.href = "./login.html";
 });
 
 
@@ -163,7 +163,7 @@ let SendUpdateProduct = async (pro) => {
             btnEdit.classList.add("d-none"); // Ocultar el botón "Actualizar"
 
             // Redirigir al listado después de actualizar
-            window.location.href = "../listado-pro.html";
+            window.location.href = "./listado-pro.html";
         }
     } catch (error) {
         console.log(error);

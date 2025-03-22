@@ -55,7 +55,7 @@ let sendData = async (data)=>{
         alert(`bienvenido: ${userLogin.nombre}`);
         //guardar datos en locallstorage
         localStorage.setItem("userLogin",JSON.stringify(userLogin));
-        location.href ="../index.html";
+        location.href ="./index.html";
        }
    } catch (error) {
     console.log(error);

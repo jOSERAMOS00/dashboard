@@ -6,7 +6,7 @@
 .home-section{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(110deg, white 68%, #ffc800 32%);
+    background: linear-gradient(110deg, white 68%, #ff8a00 32%);
 }
 /* navbar */
 #navbar{
@@ -27,7 +27,7 @@
     margin-bottom: 10px;
 }
 #logo span{
-    color: #ffc800;
+    color: #ff8a00;
 }
 .nav-item{
     margin-left: 30px;
@@ -38,11 +38,11 @@
     transition: 0.5s ease;
 }
 #first-child{
-    color: #ffc800;
+    color:#ff8a00;
     text-shadow: 1px 1px 1px black;
 }
 .nav-item .nav-link:hover{
-    color: #ffc800;
+    color:#ff8a00;
     text-shadow: 1px 1px 1px black;
 }
 .icons{
@@ -94,7 +94,7 @@
     text-shadow: -1px 0px 0px black;
 }
 .content h1 span{
-    color: #ffc800;
+    color: #ff8a00;
     text-shadow: 1px 1px 1px black;
     font-size: 100px;
     font-weight: bold;
@@ -116,7 +116,7 @@
     cursor: pointer;
 }
 #btn button:hover{
-    background-color: #ffc800;
+    background-color: #ff8a00;
     color: black;
     border: none;
 }
@@ -162,7 +162,7 @@
     text-align: center;
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
-    border-bottom: 2px solid #ffc800;
+    border-bottom: 2px solid #ff8a00;
     text-shadow: 1px 1px 1px black;
 }
 #top-icons i img{
@@ -181,27 +181,27 @@
     font-family: 'Roboto Slab', serif;
 }
 #cards .card h3{
-    color: #ffc800;
+    color: #ff8a00;
     font-weight: bold;
 }
 #cards .card p{
-    color: #ffc800;
+    color: #ff8a00;
     font-weight: bold;
 }
 #rn{
     width: 150px;
     height: 32px;
-    border: none;
+    border:#ff8a00;
     background: transparent;
-    color: #ffc800;
-    border: 2px solid #ffc800;
+    color: #ff8a00;
+    border: 2px solid #ff8a00;
     font-weight: bold;
     text-shadow: 1px 1px 1px black;
     transition: 0.5s ease;
     cursor: pointer;
 }
 #rn:hover{
-    background-color: #ffc800;
+    background-color: #ff8a00;
     color: white;
 }
 /* cards */
@@ -215,7 +215,7 @@
     text-align: center;
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
-    border-bottom: 2px solid #ffc800;
+    border-bottom: 2px solid #ff8a00;
     text-shadow: 1px 1px 1px black;
 }
 #burger .card{
@@ -223,7 +223,7 @@
     cursor: pointer;
 }
 #burger .card:hover{
-    background-color: #ffc800;
+    background-color: #ff8a00;
 }
 #burger .card h3{
     font-weight: bold;
@@ -249,22 +249,22 @@
 }
 .banner h3{
     padding-top: 132px;
-    color: #ffc800;
+    color: #ff8a00;
     font-size: 32px;
 }
 .banner p{
-    color: #ffc800;
+    color: #ff8a00;
 }
 #btnorder{
     width: 200px;
     height: 32px;
     background: transparent;
-    color: #ffc800;
-    border: 2px solid #ffc800;
+    color: #ff8a00;
+    border: 2px solid #ff8a00;
     transition: 0.5s ease;
 }
 #btnorder:hover{
-    background-color: #ffc800;
+    background-color: #ff8a00;
     color: white;
     text-shadow: 1px 1px 1px black;
 }
@@ -275,7 +275,7 @@
     margin-top: 50px;
 }
 #topcards .card{
-    background-color: #ffc800;
+    background-color: #ff8a00;
     transition: 0.5s ease;
     cursor: pointer;
 }
@@ -293,13 +293,13 @@
     text-align: center;
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
-    border-bottom: 2px solid #ffc800;
+    border-bottom: 2px solid #ff8a00;
     text-shadow: 1px 1px 1px black;
 }
 #about h2{
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
-    border-bottom: 2px solid #ffc800;
+    border-bottom: 2px solid #ff8a00;
     text-shadow: 1px 1px 1px black;
 }
 #about p{
@@ -309,17 +309,17 @@
     width: 200px;
     height: 32px;
     background: transparent;
-    border: 2px solid #ffc800;
-    color: #ffc800;
+    border: 2px solid #ff8a00;
+    color: #ff8a00;
     font-weight: bold;
     letter-spacing: 3px;
     transition: 0.5s ease;
 }
 #about .card{
-    background-color: #ffc800;
+    background-color: #ff8a00;
 }
 #readmorebtn button:hover{
-    background-color: #ffc800;
+    background-color: #ff8a00;
     color: white;
 }
 /* about */
@@ -333,20 +333,20 @@
 /* contact */
 #contact{
     margin-top: 10px;
-    border: 2px solid #ffc800;
+    border: 2px solid #ff8a00;
 }
 #h2{
     margin-top: 100px;
     text-align: center;
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
-    border-bottom: 2px solid #ffc800;
+    border-bottom: 2px solid #ff8a00;
     text-shadow: 1px 1px 1px black;
 }
 #contact h3{
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
-    border-bottom: 2px solid #ffc800;
+    border-bottom: 2px solid #ff8a00;
     text-shadow: 1px 1px 1px black;
 }
 #contact p{
@@ -356,7 +356,7 @@
     width: 500px;
     height: 42px;
     margin-top: 20px;
-    background-color: #ffc800;
+    background-color: #ff8a00;
     border: none;
     border-radius: 5px;
 }
@@ -371,17 +371,17 @@
     width: 200px;
     height: 32px;
     background: transparent;
-    border: 2px solid #ffc800;
+    border: 2px solid #ff8a00;
     letter-spacing: 3px;
     font-weight: bold;
     transition: 0.5s ease;
 }
 #btnmessage:hover{
-    background-color: #ffc800;
+    background-color: #ff8a00;
     color: white;
 }
 #contact i{
-    color: #ffc800;
+    color: #ff8a00;
     font-size: 20px;
     margin-top: 30px;
 }
@@ -411,16 +411,16 @@
     font-family: 'Roboto Slab', serif;
     color: white;
     font-size: 14px;
-    background: #ffc800;
+    background: #ff8a00;
     font-weight: bold;
     text-shadow: 0px 0px 1px black;
 }
 #footer .footer-top{
     padding: 60px 030px;
-    border: 2px solid #ffc800;
+    border: 2px solid #ff8a00;
     font-weight: bold;
     text-shadow: 1px 1px 1px black;
-    background: linear-gradient(110deg, black 67%, #ffc800 32%);
+    background: linear-gradient(110deg, black 67%, #ff8a00 32%);
     color: white;
 }
 #logo2{
@@ -472,7 +472,7 @@
     transition: 0.5s ease;
 }
 #footer .footer-top .footer-links ul li a:hover{
-    color: #ffc800;
+    color: #ff8a00;
 }
 #footer .footer-top .socail-links a{
     font-size: 18px;
@@ -594,7 +594,7 @@
     width: fit-content;
 }
 .cus-btn.primary .icon-wrapper {
-    color: #ffc800;
+    color: #ff8a00;
     background: #FCFDFD;
 }
 .cus-btn .icon-wrapper {
@@ -608,14 +608,14 @@
     overflow: hidden;
 }
 .cus-btn.primary .icon-wrapper svg {
-    fill: #ffc800;
+    fill: #ff8a00;
 }
 .cus-btn .icon-wrapper .icon-svg {
     width: 1.042vw;
     height: 1.042vw;
 }
 .cus-btn.primary .icon-wrapper svg path {
-    stroke: #ffc800;
+    stroke: #ff8a00;
 }
 .cart-summary {
     padding: 1.667vw 1.25vw;
@@ -636,7 +636,7 @@
     border-bottom: 1px solid #F0F0F0;
 }
 .color-primary {
-    color: #ffc800 !important;
+    color: #ff8a00 !important;
 }
 .cus-btn.dark {
     background-color: #282525;
@@ -654,7 +654,7 @@
     stroke: #282525;
 }
 a:hover {
-    color: #ffc800;
+    color: #ff8a00;
     transition: all 0.5s ease-in;
 }
 .product-block a{
@@ -766,7 +766,7 @@ input[type=date], input[type=text], input[type=email], input[type=file], input[t
     position: absolute;
     top: 0;
     right:0;
-    background-color: yellow;
+    background-color:#ff8a00;
     padding: 2px 5px;
     border-radius: 50%;
     font-size: 10px;
@@ -778,7 +778,7 @@ input[type=date], input[type=text], input[type=email], input[type=file], input[t
 }
 .btn-product{
     padding: 17px 37px;
-    background-color: #ffc800;
+    background-color: #ff8a00;
     border-radius: 10px;
     border: 2px solid black;
 }

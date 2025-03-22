@@ -20,5 +20,5 @@ let getUser =() =>{
 
 btnLogout.addEventListener("click",() =>{
     localStorage.removeItem("userLogin");
-    location.href = "../login.html";
+    location.href = "/login.html";
 });
